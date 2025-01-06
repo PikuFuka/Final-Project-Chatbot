@@ -1,1 +1,1 @@
-![Weekly Report 1](WEEKLY REPORT/week11.png)
+![Weekly Report 1](WEEKLY%20REPORT/week11.png)
